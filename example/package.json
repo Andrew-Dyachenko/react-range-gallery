@@ -11,7 +11,7 @@
 		"react-dom": "^16.4.1",
 		"react-helmet": "^5.2.0",
 		"react-range-gallery": "file:..",
-		"react-scripts": "^1.1.4"
+		"react-scripts": "^5.0.1"
 	},
 	"scripts": {
 		"start": "react-scripts start",
