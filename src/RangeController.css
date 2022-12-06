@@ -39,8 +39,8 @@
 	display: grid;
 	grid-template-columns: repeat(4, 1fr);
 	grid-template-areas:
-		'label input input .'
-		'datalist datalist datalist datalist'
-		'actions actions actions actions';
+		"label input input ."
+		"datalist datalist datalist datalist"
+		"actions actions actions actions";
 	grid-gap: calc(var(--global-padding) / 2);
 }

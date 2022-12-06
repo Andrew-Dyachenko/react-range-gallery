@@ -1,7 +1,7 @@
-import RangeGallery from './'
+import RangeGallery from "./";
 
-describe('RangeGallery', () => {
-	it('is truthy', () => {
-		expect(RangeGallery).toBeTruthy()
-	})
-})
+describe("RangeGallery", () => {
+	it("is truthy", () => {
+		expect(RangeGallery).toBeTruthy();
+	});
+});
