@@ -3,8 +3,9 @@ import './App.css'
 import { Helmet } from 'react-helmet'
 import preloader from './preloader.gif'
 import RangeGallery, { RangeLazyImage, RRGv } from 'react-range-gallery'
-import { version as RRGAv } from '../package.json'
+import packageJson from "../package.json";
 import ghIcon from './github-brands.svg'
+const RRGAv = packageJson.version;
 
 export default class App extends Component {
 	constructor(props) {
