@@ -54,7 +54,7 @@
 		"rollup-plugin-peer-deps-external": "^2.2.0",
 		"rollup-plugin-postcss": "^4.0.2",
 		"rollup-plugin-url": "^1.4.0",
-		"rome": "^10.0.1"
+		"rome": "^11.0.0"
 	},
 	"files": [
 		"dist"
